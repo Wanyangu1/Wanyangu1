@@ -50,7 +50,7 @@ Check out my live projects here 👉 **[clinton.miteexplorers.com](https://clint
 📱 **Phone:** +254 114 290 760  
 🌐 **Website:** [clinton.miteexplorers.com](https://clinton.miteexplorers.com/)  
 👨‍💻 **GitHub:** [Wanyangu1](https://github.com/Wanyangu1)  
-💼 **LinkedIn:** (Add your LinkedIn link here)  
+💼 **LinkedIn:** (https://www.linkedin.com/in/amos-clinton-b65158222/)  
 
 ---
 
