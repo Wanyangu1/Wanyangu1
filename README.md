@@ -15,7 +15,7 @@
 ---
 
 ## 🌐 Portfolio  
-Check out my live projects here 👉 **[clinton.miteexplorers.com](https://clinton.miteexplorers.com/)**  
+Check out my live projects here 👉 **[amosclinton.site](https://amosclinton.site/)**  
 
 🔹 **mycityradiusattendance.com** – Smart attendance & geo-fencing system  
 🔹 **jikubaliafrica.org** – Community-focused professional website  
